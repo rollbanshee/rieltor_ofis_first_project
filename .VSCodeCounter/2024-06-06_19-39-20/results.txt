@@ -1,0 +1,276 @@
+Date : 2024-06-06 19:39:20
+Directory : c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis
+Total : 173 files,  12210 codes, 874 comments, 1107 blanks, all 14191 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Dart       |         84 |     10,355 |        593 |        780 |     11,728 |
+| XML        |         50 |        761 |         48 |         52 |        861 |
+| C++        |         16 |        548 |        121 |        182 |        851 |
+| JSON       |          4 |        248 |          0 |          4 |        252 |
+| Gradle     |          3 |         90 |          5 |         22 |        117 |
+| Swift      |          6 |         60 |          7 |         20 |         87 |
+| YAML       |          3 |         48 |         84 |         18 |        150 |
+| CMake      |          2 |         41 |          0 |         12 |         53 |
+| HTML       |          1 |         38 |         16 |          6 |         60 |
+| Markdown   |          2 |         13 |          0 |          9 |         22 |
+| Properties |          2 |          8 |          0 |          2 |         10 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                   |        173 |     12,210 |        874 |      1,107 |     14,191 |
+| . (Files)                                                                                                           |          4 |         58 |         84 |         25 |        167 |
+| android                                                                                                             |         12 |        163 |         51 |         33 |        247 |
+| android (Files)                                                                                                     |          3 |         38 |          0 |         10 |         48 |
+| android\app                                                                                                         |          8 |        120 |         51 |         22 |        193 |
+| android\app (Files)                                                                                                 |          1 |         55 |          5 |         13 |         73 |
+| android\app\src                                                                                                     |          7 |         65 |         46 |          9 |        120 |
+| android\app\src\debug                                                                                               |          1 |          3 |          4 |          1 |          8 |
+| android\app\src\main                                                                                                |          5 |         59 |         38 |          7 |        104 |
+| android\app\src\main (Files)                                                                                        |          1 |         33 |          6 |          1 |         40 |
+| android\app\src\main\res                                                                                            |          4 |         26 |         32 |          6 |         64 |
+| android\app\src\main\res\drawable                                                                                   |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\drawable-v21                                                                               |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\values                                                                                     |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\main\res\values-night                                                                               |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\profile                                                                                             |          1 |          3 |          4 |          1 |          8 |
+| android\gradle                                                                                                      |          1 |          5 |          0 |          1 |          6 |
+| android\gradle\wrapper                                                                                              |          1 |          5 |          0 |          1 |          6 |
+| assets                                                                                                              |         40 |        292 |          0 |         40 |        332 |
+| assets\images                                                                                                       |         40 |        292 |          0 |         40 |        332 |
+| ios                                                                                                                 |          8 |        229 |          4 |         13 |        246 |
+| ios\Runner                                                                                                          |          7 |        222 |          2 |          9 |        233 |
+| ios\Runner (Files)                                                                                                  |          2 |         13 |          0 |          3 |         16 |
+| ios\RunnerTests                                                                                                     |          1 |          7 |          2 |          4 |         13 |
+| ios\Runner\Assets.xcassets                                                                                          |          3 |        148 |          0 |          4 |        152 |
+| ios\Runner\Assets.xcassets\AppIcon.appiconset                                                                       |          1 |        122 |          0 |          1 |        123 |
+| ios\Runner\Assets.xcassets\LaunchImage.imageset                                                                     |          2 |         26 |          0 |          3 |         29 |
+| ios\Runner\Base.lproj                                                                                               |          2 |         61 |          2 |          2 |         65 |
+| lib                                                                                                                 |         83 |     10,341 |        583 |        773 |     11,697 |
+| lib (Files)                                                                                                         |          1 |         55 |         14 |          6 |         75 |
+| lib\domain                                                                                                          |         51 |      1,479 |        101 |        306 |      1,886 |
+| lib\domain\api_clients                                                                                              |          1 |        478 |          1 |         56 |        535 |
+| lib\domain\entity                                                                                                   |         50 |      1,001 |        100 |        250 |      1,351 |
+| lib\domain\entity (Files)                                                                                           |          2 |         19 |          4 |         11 |         34 |
+| lib\domain\entity\announces_id                                                                                      |         16 |        307 |         32 |         80 |        419 |
+| lib\domain\entity\areamarks                                                                                         |          8 |         84 |         16 |         37 |        137 |
+| lib\domain\entity\favourites                                                                                        |          8 |        157 |         16 |         42 |        215 |
+| lib\domain\entity\homeindex                                                                                         |          6 |        140 |         12 |         25 |        177 |
+| lib\domain\entity\search                                                                                            |          4 |        170 |          8 |         24 |        202 |
+| lib\domain\entity\subscriptions                                                                                     |          6 |        124 |         12 |         31 |        167 |
+| lib\resources                                                                                                       |          4 |         12 |          0 |          1 |         13 |
+| lib\ui                                                                                                              |         27 |      8,795 |        468 |        460 |      9,723 |
+| lib\ui\screens                                                                                                      |         27 |      8,795 |        468 |        460 |      9,723 |
+| lib\ui\screens\authorization                                                                                        |          4 |        493 |         23 |         36 |        552 |
+| lib\ui\screens\bottom_navigation_bar                                                                                |          1 |        162 |         47 |          9 |        218 |
+| lib\ui\screens\details_page                                                                                         |          4 |      1,587 |        161 |         96 |      1,844 |
+| lib\ui\screens\favourites                                                                                           |          3 |        937 |         26 |         55 |      1,018 |
+| lib\ui\screens\main_screen                                                                                          |          3 |      1,089 |         55 |         32 |      1,176 |
+| lib\ui\screens\profile                                                                                              |          1 |        113 |          2 |          5 |        120 |
+| lib\ui\screens\search                                                                                               |          6 |      3,063 |        135 |        167 |      3,365 |
+| lib\ui\screens\search (Files)                                                                                       |          4 |      2,274 |        121 |        133 |      2,528 |
+| lib\ui\screens\search\searchannounces                                                                               |          2 |        789 |         14 |         34 |        837 |
+| lib\ui\screens\splash_screen                                                                                        |          2 |         64 |          0 |         12 |         76 |
+| lib\ui\screens\subscriptions                                                                                        |          3 |      1,287 |         19 |         48 |      1,354 |
+| linux                                                                                                               |          6 |        122 |         27 |         44 |        193 |
+| linux (Files)                                                                                                       |          3 |         86 |         18 |         27 |        131 |
+| linux\flutter                                                                                                       |          3 |         36 |          9 |         17 |         62 |
+| macos                                                                                                               |          6 |        452 |          5 |         16 |        473 |
+| macos\Flutter                                                                                                       |          1 |         14 |          3 |          4 |         21 |
+| macos\Runner                                                                                                        |          4 |        431 |          0 |          8 |        439 |
+| macos\Runner (Files)                                                                                                |          2 |         20 |          0 |          6 |         26 |
+| macos\RunnerTests                                                                                                   |          1 |          7 |          2 |          4 |         13 |
+| macos\Runner\Assets.xcassets                                                                                        |          1 |         68 |          0 |          1 |         69 |
+| macos\Runner\Assets.xcassets\AppIcon.appiconset                                                                     |          1 |         68 |          0 |          1 |         69 |
+| macos\Runner\Base.lproj                                                                                             |          1 |        343 |          0 |          1 |        344 |
+| test                                                                                                                |          1 |         14 |         10 |          7 |         31 |
+| web                                                                                                                 |          2 |         73 |         16 |          7 |         96 |
+| windows                                                                                                             |         11 |        466 |         94 |        149 |        709 |
+| windows\flutter                                                                                                     |          3 |         38 |          9 |         17 |         64 |
+| windows\runner                                                                                                      |          8 |        428 |         85 |        132 |        645 |
++---------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                            | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\README.md                                                       | Markdown   |         10 |          0 |          7 |         17 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\analysis_options.yaml                                           | YAML       |          3 |         23 |          4 |         30 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\android\app\build.gradle                                        | Gradle     |         55 |          5 |         13 |         73 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\android\app\src\debug\AndroidManifest.xml                       | XML        |          3 |          4 |          1 |          8 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\android\app\src\main\AndroidManifest.xml                        | XML        |         33 |          6 |          1 |         40 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\android\app\src\main\res\drawable-v21\launch_background.xml     | XML        |          4 |          7 |          2 |         13 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\android\app\src\main\res\drawable\launch_background.xml         | XML        |          4 |          7 |          2 |         13 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\android\app\src\main\res\values-night\styles.xml                | XML        |          9 |          9 |          1 |         19 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\android\app\src\main\res\values\styles.xml                      | XML        |          9 |          9 |          1 |         19 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\android\app\src\profile\AndroidManifest.xml                     | XML        |          3 |          4 |          1 |          8 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\android\build.gradle                                            | Gradle     |         27 |          0 |          5 |         32 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\android\gradle.properties                                       | Properties |          3 |          0 |          1 |          4 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\android\gradle\wrapper\gradle-wrapper.properties                | Properties |          5 |          0 |          1 |          6 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\android\settings.gradle                                         | Gradle     |          8 |          0 |          4 |         12 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\ArrowLeft.svg                                     | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\Bell.svg                                          | XML        |          8 |          0 |          1 |          9 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\BellSimpleSlash.svg                               | XML        |          8 |          0 |          1 |          9 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\CaretCircleRight.svg                              | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\CaretRight.svg                                    | XML        |          5 |          0 |          1 |          6 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\CheckCircle.svg                                   | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\CheckCircleBlue.svg                               | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\Clock.svg                                         | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\Drop.svg                                          | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\Ellipse 1.svg                                     | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\Ellipse_28.svg                                    | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\Fire.svg                                          | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\Folders.svg                                       | XML        |         10 |          0 |          1 |         11 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\Globe.svg                                         | XML        |          8 |          0 |          1 |          9 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\Group33639.svg                                    | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\HeartStraight.svg                                 | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\HeartStraight1.svg                                | XML        |          5 |          0 |          1 |          6 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\HeartStraightRed.svg                              | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\House.svg                                         | XML        |          5 |          0 |          1 |          6 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\MagnifyingGlass.svg                               | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\MapPin.svg                                        | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\MapPin1.svg                                       | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\MapTrifold.svg                                    | XML        |          7 |          0 |          1 |          8 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\Phone.svg                                         | XML        |          5 |          0 |          1 |          6 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\Plus.svg                                          | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\Profile.svg                                       | XML        |          7 |          0 |          1 |          8 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\ShareNetwork.svg                                  | XML        |          9 |          0 |          1 |         10 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\SlidersHorizontal.svg                             | XML        |         10 |          0 |          1 |         11 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\Timer.svg                                         | XML        |          7 |          0 |          1 |          8 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\Trash.svg                                         | XML        |          9 |          0 |          1 |         10 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\UnChoosedCircle.svg                               | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\Union.svg                                         | XML        |          3 |          0 |          1 |          4 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\UserCircle.svg                                    | XML        |         14 |          0 |          1 |         15 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\VideoCamera.svg                                   | XML        |          6 |          0 |          1 |          7 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\WifiHigh.svg                                      | XML        |          8 |          0 |          1 |          9 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\building_line.svg                                 | XML        |          5 |          0 |          1 |          6 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\elevator-lift-svgrepo-com 1.svg                   | XML        |         14 |          0 |          1 |         15 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\emlak_logo.svg                                    | XML        |         15 |          0 |          1 |         16 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\garage-svgrepo-com 1.svg                          | XML        |         17 |          0 |          1 |         18 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\assets\images\heating-svgrepo-com 1.svg                         | XML        |         17 |          0 |          1 |         18 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\devtools_options.yaml                                           | YAML       |          1 |          0 |          1 |          2 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\ios\RunnerTests\RunnerTests.swift                               | Swift      |          7 |          2 |          4 |         13 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\ios\Runner\AppDelegate.swift                                    | Swift      |         12 |          0 |          2 |         14 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json     | JSON       |        122 |          0 |          1 |        123 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json   | JSON       |         23 |          0 |          1 |         24 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md       | Markdown   |          3 |          0 |          2 |          5 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\ios\Runner\Base.lproj\LaunchScreen.storyboard                   | XML        |         36 |          1 |          1 |         38 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\ios\Runner\Base.lproj\Main.storyboard                           | XML        |         25 |          1 |          1 |         27 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\ios\Runner\Runner-Bridging-Header.h                             | C++        |          1 |          0 |          1 |          2 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\api_clients\api_client.dart                          | Dart       |        478 |          1 |         56 |        535 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\announce_condition.dart          | Dart       |         16 |          0 |          5 |         21 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\announce_condition.g.dart        | Dart       |         19 |          4 |          5 |         28 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\announces_id.dart                | Dart       |         59 |          0 |          5 |         64 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\announces_id.g.dart              | Dart       |         62 |          4 |          5 |         71 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\location.dart                    | Dart       |         11 |          0 |          5 |         16 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\location.g.dart                  | Dart       |          9 |          4 |          5 |         18 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\nearby_locations.dart            | Dart       |         16 |          0 |          5 |         21 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\nearby_locations.g.dart          | Dart       |         22 |          4 |          5 |         31 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\similar_ads.dart                 | Dart       |         13 |          0 |          5 |         18 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\similar_ads.g.dart               | Dart       |         14 |          4 |          5 |         23 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\the_nearest_park.dart            | Dart       |         11 |          0 |          5 |         16 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\the_nearest_park.g.dart          | Dart       |         11 |          4 |          5 |         20 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\the_nearest_school.dart          | Dart       |         11 |          0 |          5 |         16 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\the_nearest_school.g.dart        | Dart       |         11 |          4 |          5 |         20 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\the_nearest_station.dart         | Dart       |         11 |          0 |          5 |         16 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\announces_id\the_nearest_station.g.dart       | Dart       |         11 |          4 |          5 |         20 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\areamarks\marks.dart                          | Dart       |         10 |          0 |          4 |         14 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\areamarks\marks.g.dart                        | Dart       |          9 |          4 |          5 |         18 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\areamarks\metro.dart                          | Dart       |         10 |          0 |          4 |         14 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\areamarks\metro.g.dart                        | Dart       |          9 |          4 |          5 |         18 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\areamarks\region.dart                         | Dart       |         12 |          0 |          4 |         16 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\areamarks\region.g.dart                       | Dart       |         13 |          4 |          5 |         22 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\areamarks\settlements.dart                    | Dart       |         11 |          0 |          5 |         16 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\areamarks\settlements.g.dart                  | Dart       |         10 |          4 |          5 |         19 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\cities.dart                                   | Dart       |         10 |          0 |          6 |         16 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\cities.g.dart                                 | Dart       |          9 |          4 |          5 |         18 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\favourites\get_folders.dart                   | Dart       |         12 |          0 |          6 |         18 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\favourites\get_folders.g.dart                 | Dart       |         12 |          4 |          5 |         21 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\favourites\get_folders_by_announces.dart      | Dart       |         11 |          0 |          6 |         17 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\favourites\get_folders_by_announces.g.dart    | Dart       |         13 |          4 |          5 |         22 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\favourites\get_wishlist.dart                  | Dart       |         29 |          0 |          5 |         34 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\favourites\get_wishlist.g.dart                | Dart       |         25 |          4 |          5 |         34 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\favourites\single_folder.dart                 | Dart       |         29 |          0 |          5 |         34 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\favourites\single_folder.g.dart               | Dart       |         26 |          4 |          5 |         35 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\homeindex\announcesforrent.dart               | Dart       |         29 |          0 |          3 |         32 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\homeindex\announcesforrent.g.dart             | Dart       |         27 |          4 |          5 |         36 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\homeindex\announcesforsale.dart               | Dart       |         29 |          0 |          3 |         32 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\homeindex\announcesforsale.g.dart             | Dart       |         27 |          4 |          5 |         36 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\homeindex\homeindex.dart                      | Dart       |         13 |          0 |          4 |         17 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\homeindex\homeindex.g.dart                    | Dart       |         15 |          4 |          5 |         24 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\search\search.dart                            | Dart       |         52 |          0 |          8 |         60 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\search\search.g.dart                          | Dart       |         51 |          4 |          5 |         60 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\search\searchannounces.dart                   | Dart       |         40 |          0 |          6 |         46 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\search\searchannounces.g.dart                 | Dart       |         27 |          4 |          5 |         36 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\subscriptions\save_filter.dart                | Dart       |         12 |          0 |          5 |         17 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\subscriptions\save_filter.g.dart              | Dart       |         10 |          4 |          5 |         19 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\subscriptions\subscription_announces.dart     | Dart       |         29 |          0 |          6 |         35 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\subscriptions\subscription_announces.g.dart   | Dart       |         29 |          4 |          5 |         38 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\subscriptions\subscriptions.dart              | Dart       |         23 |          0 |          5 |         28 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\domain\entity\subscriptions\subscriptions.g.dart            | Dart       |         21 |          4 |          5 |         30 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\main.dart                                                   | Dart       |         55 |         14 |          6 |         75 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\resources\app_colors.dart                                   | Dart       |          3 |          0 |          0 |          3 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\resources\app_images.dart                                   | Dart       |          3 |          0 |          0 |          3 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\resources\app_styles.dart                                   | Dart       |          3 |          0 |          0 |          3 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\resources\resources.dart                                    | Dart       |          3 |          0 |          1 |          4 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\authorization\auth_model.dart                    | Dart       |         31 |          3 |         10 |         44 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\authorization\code.dart                          | Dart       |        180 |         12 |         15 |        207 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\authorization\name.dart                          | Dart       |        123 |          4 |          5 |        132 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\authorization\phone.dart                         | Dart       |        159 |          4 |          6 |        169 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\bottom_navigation_bar\bottom_navigation_bar.dart | Dart       |        162 |         47 |          9 |        218 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\details_page\details_page.dart                   | Dart       |      1,188 |        145 |         58 |      1,391 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\details_page\details_page_model.dart             | Dart       |         65 |          0 |         11 |         76 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\details_page\photos_screen.dart                  | Dart       |        248 |         13 |         16 |        277 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\details_page\photos_slider.dart                  | Dart       |         86 |          3 |         11 |        100 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\favourites\folders_model.dart                    | Dart       |         85 |          0 |         16 |        101 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\favourites\folders_screen.dart                   | Dart       |        523 |         21 |         26 |        570 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\favourites\single_folder.dart                    | Dart       |        329 |          5 |         13 |        347 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\main_screen\main_screen.dart                     | Dart       |        633 |         14 |         17 |        664 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\main_screen\modal_bottom_sheet.dart              | Dart       |        357 |          7 |         10 |        374 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\main_screen\to_modal_bottom_sheet.dart           | Dart       |         99 |         34 |          5 |        138 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\profile\profile.dart                             | Dart       |        113 |          2 |          5 |        120 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\search\cities.dart                               | Dart       |        216 |         32 |         24 |        272 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\search\search.dart                               | Dart       |      1,484 |         68 |         80 |      1,632 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\search\search_model.dart                         | Dart       |         33 |          0 |          4 |         37 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\search\searchannounces\searchannouncesmodel.dart | Dart       |         77 |          0 |         14 |         91 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\search\searchannounces\searchannouncesui.dart    | Dart       |        712 |         14 |         20 |        746 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\search\streets.dart                              | Dart       |        541 |         21 |         25 |        587 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\splash_screen\secondmain.dart                    | Dart       |         34 |          0 |          6 |         40 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\splash_screen\splash_screen.dart                 | Dart       |         30 |          0 |          6 |         36 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\subscriptions\subscription_announces.dart        | Dart       |        697 |         11 |         18 |        726 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\subscriptions\subscriptions.dart                 | Dart       |        486 |          8 |         15 |        509 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\lib\ui\screens\subscriptions\subscriptions_model.dart           | Dart       |        104 |          0 |         15 |        119 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\linux\flutter\generated_plugin_registrant.cc                    | C++        |         11 |          4 |          5 |         20 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\linux\flutter\generated_plugin_registrant.h                     | C++        |          5 |          5 |          6 |         16 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\linux\flutter\generated_plugins.cmake                           | CMake      |         20 |          0 |          6 |         26 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\linux\main.cc                                                   | C++        |          5 |          0 |          2 |          7 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\linux\my_application.cc                                         | C++        |         74 |         11 |         20 |        105 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\linux\my_application.h                                          | C++        |          7 |          7 |          5 |         19 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\macos\Flutter\GeneratedPluginRegistrant.swift                   | Swift      |         14 |          3 |          4 |         21 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\macos\RunnerTests\RunnerTests.swift                             | Swift      |          7 |          2 |          4 |         13 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\macos\Runner\AppDelegate.swift                                  | Swift      |          8 |          0 |          2 |         10 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\macos\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json   | JSON       |         68 |          0 |          1 |         69 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\macos\Runner\Base.lproj\MainMenu.xib                            | XML        |        343 |          0 |          1 |        344 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\macos\Runner\MainFlutterWindow.swift                            | Swift      |         12 |          0 |          4 |         16 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\pubspec.yaml                                                    | YAML       |         44 |         61 |         13 |        118 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\test\widget_test.dart                                           | Dart       |         14 |         10 |          7 |         31 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\web\index.html                                                  | HTML       |         38 |         16 |          6 |         60 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\web\manifest.json                                               | JSON       |         35 |          0 |          1 |         36 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\windows\flutter\generated_plugin_registrant.cc                  | C++        |         12 |          4 |          5 |         21 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\windows\flutter\generated_plugin_registrant.h                   | C++        |          5 |          5 |          6 |         16 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\windows\flutter\generated_plugins.cmake                         | CMake      |         21 |          0 |          6 |         27 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\windows\runner\flutter_window.cpp                               | C++        |         49 |          7 |         16 |         72 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\windows\runner\flutter_window.h                                 | C++        |         20 |          5 |          9 |         34 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\windows\runner\main.cpp                                         | C++        |         30 |          4 |         10 |         44 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\windows\runner\resource.h                                       | C++        |          9 |          6 |          2 |         17 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\windows\runner\utils.cpp                                        | C++        |         54 |          2 |         10 |         66 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\windows\runner\utils.h                                          | C++        |          8 |          6 |          6 |         20 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\windows\runner\win32_window.cpp                                 | C++        |        210 |         24 |         55 |        289 |
+| c:\Users\Rahim\Desktop\my_own_projects\rieltor_ofis\windows\runner\win32_window.h                                   | C++        |         48 |         31 |         24 |        103 |
+| Total                                                                                                               |            |     12,210 |        874 |      1,107 |     14,191 |
++---------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
